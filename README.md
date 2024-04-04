@@ -52,7 +52,7 @@ Figure 02  Encoder 8 * 3
 ![image](https://github.com/Yuvan291205/ENCODER8TO3DATAFLOW/assets/138849170/6e4087ad-112c-4a53-b75a-1eda9e76ec70)
 
 
-Developed by:  Yuvan M RegisterNumber: 212223240188
+Developed by:  VEERARAGAVAN V RegisterNumber: 212223230237
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
